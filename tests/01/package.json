@@ -1,0 +1,13 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nock": "^11.7.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
